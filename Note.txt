@@ -1,0 +1,10 @@
+Registration
+    http://127.0.0.1:8000/api/register/
+    this require username, email and password
+
+Login 
+    http://127.0.0.1:8000/api/login/
+    this require email and password
+
+Logout
+    http://127.0.0.1:8000/api/logout/
